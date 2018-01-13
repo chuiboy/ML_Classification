@@ -1,2 +1,2 @@
 # ML_Classification
-Machine learning classification models
+Contains examples of machine learning classification models implemented using the sklearn library.
